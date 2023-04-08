@@ -1,4 +1,6 @@
 baseURL = "https://maiko-onishi.github.io"
+publishDir = "docs"
+canonifyurls = true
 
 # set your your own ga token here.
 googleAnalytics = ""
