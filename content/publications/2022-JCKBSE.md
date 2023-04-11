@@ -8,7 +8,8 @@ authors:
 
 date: "2022-08-24"
 
-publication: "In Proceedings of the 14th International Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2022)"
+publication: "Proceedings of the 14th International Joint Conference on Knowledge-Based Software Engineering"
+presentation: "JCKBSE 2022"
 
 # You can have multiple links
 # format is, LINK_NAME : LINK_URL
