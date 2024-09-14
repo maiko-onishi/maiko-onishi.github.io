@@ -39,7 +39,7 @@ academia:
     - course:
         degree: "Ph.D."
         major: "Computer Science"
-        start_date: "2021"
+        # start_date: "2021"
 #	end_date: '2023'
 #        other_info: 'supervised by Prof. Okano and Bekki.'
     - course:
@@ -47,8 +47,8 @@ academia:
 #        institution: 'Ochanomizu University'
         major: 'Computer Science'
 #        major: 'Humanities and Sciences - Advanced Sciences - Computer Science'
-        start_date: '2019'
-        end_date: '2021'
+        # start_date: '2019'
+        # end_date: '2021'
 #        other_info: 'supervised by Prof. Bekki.'
     - course:
         degree: "B.Sc."
@@ -56,8 +56,8 @@ academia:
         major: 'Information Science'
 #        major: 'Science - Information Science'
 #        minor: 'Statistics'
-        start_date: '2015'
-        end_date: '2019'
+        # start_date: '2015'
+        # end_date: '2019'
 #        other_info: 'supervised by Prof. Bekki.'
 
 
